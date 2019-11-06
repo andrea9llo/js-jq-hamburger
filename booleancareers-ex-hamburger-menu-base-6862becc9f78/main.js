@@ -20,6 +20,15 @@ $( document ).ready(function() {
 
 
 
+  // prova corretta
+  // $(".menu").click(function() {
+  //    $(".hamburger-menu").addClass("active");
+  //   });
+  //
+  // // al click dell x faccio chiudere il menu
+  // $(".close").click(function(){
+  //   $(".hamburger-menu").removeClass("active");
+  // });
 
 
 
